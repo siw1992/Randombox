@@ -1,0 +1,6 @@
+Windows7 빌드 7601 이 WIndows는 정품이 아닙니다가 뜰때..
+
+
+cmd -> 경로를 C:\Windows\system32>로 변경한뒤
+SLGMR -REARM 명령내리기
+3~5초  사이에 명령을 완료했습니다 창이 뜰거셈. 확인 누를것
